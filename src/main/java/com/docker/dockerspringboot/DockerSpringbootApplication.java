@@ -11,7 +11,7 @@ public class DockerSpringbootApplication {
 
     @RequestMapping("/")
     public String fun(){
-        return "Dockerised application";
+        return "Dockerised application newwwwwwwwwwwwww brach change";
     }
     public static void main(String[] args) {
         SpringApplication.run(DockerSpringbootApplication.class, args);
